@@ -4,6 +4,9 @@ h1{
   color:rgb(241, 239, 247);
   text-align: center;
   width: 150px;
+  border-bottom-left-radius: 18px;
+  border-top-right-radius: 18px;
+  box-shadow: 5px 5px;
 }
 /*
 Copyright Google LLC. All Rights Reserved.
