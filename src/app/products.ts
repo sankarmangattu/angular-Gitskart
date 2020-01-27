@@ -5,14 +5,14 @@ export const products = [
     description: 'A large phone with one of the best screens'
   },
   {
-    name: 'redmi K20 Pro',
+    name: 'Redmi K20 Pro',
     price: 24999,
     description: 'A great phone with one of the best processor'
   },
   {
     name: 'Samsung S10 Plus',
     price: 79999,
-    description: ''
+    description: 'A great phone with one of the best camera'
   }
 ];
 
